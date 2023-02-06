@@ -8,8 +8,6 @@
 ## 🛠️ Tools and technologies
 `React` `CSS modules` `Create React App` `VS Code`
 
-By preparing this project I learned basic **React features**.
-
 ## 🌐 Deployment
 Deployed on `Netlify`.
 
@@ -17,3 +15,5 @@ Live preview at [dawidlehai-react-expenses-tracker.netlify.app](https://dawidleh
 
 ## 🎓 Related course
 This project was created as a part of the [Udemy](https://www.udemy.com/ 'Udemy') course [_React - The Complete Guide (incl Hooks, React Router, Redux)_](https://www.udemy.com/course/react-the-complete-guide-incl-redux/ 'See this course on Udemy') by [Maximilian Schwarzmüller](https://twitter.com/maxedapps 'Maximilian Schwarzmüller on Twitter').
+
+By preparing this project I learned basic **React features**.
