@@ -12,5 +12,5 @@ html {
 
 body {
   margin: 0;
-  background: linear-gradient(60deg, #dec0f1, #f0c7dd, #efd9ce);
+  background: linear-gradient(to top, #dec0f1, #f0c7dd, #efd9ce);
 }
