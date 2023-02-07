@@ -1,3 +1,8 @@
+form *:focus,
+*:focus-visible {
+  outline: none;
+}
+
 .new-expense__controls {
   display: flex;
   flex-wrap: wrap;
@@ -18,7 +23,12 @@
   border-radius: 6px;
   border: 1px solid #ccc;
   width: 20rem;
+  color: #7b4428;
   max-width: 100%;
+}
+
+.new-expense__control input:focus {
+  border: 1px solid #7161ef;
 }
 
 .new-expense__actions {

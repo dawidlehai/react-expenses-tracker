@@ -1,7 +1,8 @@
 .chart {
   padding: 1rem;
   border-radius: 12px;
-  background-color: #f8dfff;
+  background: #fff;
+  border: 1px solid #efd9ce;
   text-align: center;
   display: flex;
   justify-content: space-around;

@@ -1,5 +1,5 @@
 {
-  "name": "expense-tracker",
+  "name": "expenses-tracker",
   "version": "1.0.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
