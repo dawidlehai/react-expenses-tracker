@@ -3,7 +3,7 @@
 **Simple demo expenses tracker made in React.**
 
 ## 💻 Screenshot
-[<img src="react-expenses-tracker-screenshot.webp" alt="Screenshot of the React Expenses Tracker app" width="480px">](https://dawidlehai-react-expenses-tracker.netlify.app/ 'Live preview')
+[<img src="react-expenses-tracker-screenshot-02.webp" alt="Screenshot of the React Expenses Tracker app" width="480px">](https://dawidlehai-react-expenses-tracker.netlify.app/ 'Live preview')
 
 ## 🛠️ Tools and technologies
 `React` `CSS modules` `Create React App` `VS Code`
